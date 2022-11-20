@@ -1,0 +1,12 @@
+h1{
+    padding: 5px;
+    margin: 20px;
+    color: darkolivegreen;
+    font-style: italic;
+}
+.container-fluid{
+    margin-top: 10px;
+}
+.footer-copyright text-center{
+    color: #fff;
+}
